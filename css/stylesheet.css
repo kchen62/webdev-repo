@@ -38,6 +38,7 @@ h3 {
     background: #ffffff;
     font: 600 24px/18px "Capitals", sans-serif;
     border-bottom: 2px solid #ddd;
+    position: relative;
 }
 
 .wrapper {
@@ -57,8 +58,9 @@ p {
     border-radius: 5px;
 }
 
+
 .selected-answer {
-    background: #8ac5ff;
+    background: #8ac5ff !important;
 }
 
 .answer {
